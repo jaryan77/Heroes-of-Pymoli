@@ -9,16 +9,22 @@ In this project, I was tasked with generating a report that breaks down a free (
 ### Player Count
 * Total Number of Players
 
+![total_players](Images/total_players.PNG)
+
 ### Purchasing Analysis
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
 
+![purchase_analysis](Images/purchase_analysis.PNG)
+
 ### Gender Demographics
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
+
+![gender_demographics](Images/gender_demographics.PNG)
 
 ### Purchasing Analysis (Gender)
 * Purchase Count
@@ -26,11 +32,16 @@ In this project, I was tasked with generating a report that breaks down a free (
 * Total Purchase Value
 * Average Purchase Total per Person by Gender
 
+![gender_purchase_analysis](Images/gender_purchase_analysis.PNG)
+
 ### Age Demographics
 * Purchase Count
 * Average Purchase Price
 * Total Purchase Value
 * Average Purchase Total per Person by Age Group
+
+![age_demographics](Images/age_demographics.PNG)
+![age_purchasing_analysis](Images/age_analysis_df.PNG)
 
 ### Top Spenders
 
@@ -40,6 +51,8 @@ In this project, I was tasked with generating a report that breaks down a free (
   * Average Purchase Price
   * Total Purchase Value
 
+![top_spenders](Images/top_spenders.PNG)
+
 ### Most Popular Items
 
 * Identify the 5 most popular items by purchase count, then list (in a table):
@@ -48,6 +61,19 @@ In this project, I was tasked with generating a report that breaks down a free (
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
+![most_popular](Images/most_profitable_items.PNG)
+
+### Most Profitable Items
+
+* Identify the 5 most profitable items by total purchase value, then list (in a table):
+  * Item ID
+  * Item Name
+  * Purchase Count
+  * Item Price
+  * Total Purchase Value
+
+![most_profitable](Images/most_profitable_items.PNG)
 
 ## Observations
 
